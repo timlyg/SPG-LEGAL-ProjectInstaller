@@ -1,0 +1,9 @@
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\bin\Debug\SPG-LEGAL-ProjectInstaller.exe.config
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\bin\Debug\SPG-LEGAL-ProjectInstaller.exe
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\bin\Debug\SPG-LEGAL-ProjectInstaller.pdb
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\obj\Debug\SPG-LEGAL-ProjectInstaller.csprojResolveAssemblyReference.cache
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\obj\Debug\SPG_LEGAL_ProjectInstaller.Form1.resources
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\obj\Debug\SPG_LEGAL_ProjectInstaller.Properties.Resources.resources
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\obj\Debug\SPG-LEGAL-ProjectInstaller.csproj.GenerateResource.Cache
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\obj\Debug\SPG-LEGAL-ProjectInstaller.exe
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\SPG-LEGAL-ProjectInstaller\SPG-LEGAL-ProjectInstaller\obj\Debug\SPG-LEGAL-ProjectInstaller.pdb
